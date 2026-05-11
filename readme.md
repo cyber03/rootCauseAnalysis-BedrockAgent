@@ -103,17 +103,11 @@ Displays RCA results through:
 ```text
 smartRCAAssistant/
 │
-├── lambda/
+├── lambdaFunctions/
 │   └── RCAlambdaFx.py
 │
-├── openapi/
-│   └── openapi.yaml
-│
-├── diagrams/
-│   └── architecture.png
-│
-├── screenshots/
-│   └── demo-output.png
+├── openAPISchema/
+│   └── openAPI.yaml
 │
 └── README.md
 ```
