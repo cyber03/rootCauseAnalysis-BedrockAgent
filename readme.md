@@ -30,6 +30,9 @@ The project helps DevOps and Cloud Engineering teams reduce Mean Time To Resolut
 
 # Architecture
 
+<img width="2048" height="1065" alt="rootCauseAnalysis" src="https://github.com/user-attachments/assets/b46137a3-a85c-4906-9ddb-ee60698a7723" />
+
+
 ## Components
 
 ### Amazon CloudWatch Logs
